@@ -130,3 +130,22 @@ x*=5
 
 
 console.log(x)
+
+//Ternary 
+stu1 = 3
+
+stu2 = 6
+
+// condition - Pass 
+
+// condition - Fail 
+
+// studentfinal = 
+
+
+// <condition> ? <value1> : <value2>;
+
+finalvalue= 3<4 ? stu1 : stu2
+
+console.log(finalvalue)
+
